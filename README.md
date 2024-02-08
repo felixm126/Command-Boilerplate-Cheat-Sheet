@@ -70,12 +70,11 @@ app.get('/', (req, res) => { <br>
     res.send("welcome to my page") <br>
   })<br>
 <br>
-<br>
 
 package.json page: <br>
 "start": "node server.js", <br>
 "dev": "nodemon server.js" <br>
-**add this under "script"
+**add this under "script" <br>
 
     
 <bold> Controller pages: </bold><br>
