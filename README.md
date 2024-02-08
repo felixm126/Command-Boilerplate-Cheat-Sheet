@@ -71,6 +71,13 @@ app.get('/', (req, res) => { <br>
   })<br>
 <br>
 <br>
+
+package.json page: <br>
+"start": "node server.js", <br>
+"dev": "nodemon server.js" <br>
+**add this under "script"
+
+    
 <bold> Controller pages: </bold><br>
   module.exports = { <br>
     get1, <br>
